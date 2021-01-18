@@ -1,0 +1,1 @@
+d=eval(input("Enter the dictionary in the form of{Section:Stream}"))

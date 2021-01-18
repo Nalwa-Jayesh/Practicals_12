@@ -1,0 +1,14 @@
+q1) WAP to determine how many times a given letter occurs in a string
+q2) WAP to take a word from user and check if it is a palindrome
+q3) WAP to take the first number (a) ,common difference (d) and number of terms (n) from the user and display the arithmatic progression 
+q4) WAP to recursively find the factorial of a natural number
+q5) WAP to recursively find the fiboniccai series upto n tems and take n from the user
+q6) Write a recursive code to find the sum of all elements in a list
+q7) Write a python menu driven program to show all stack operations performed on a list taken from the user
+q8) Write a python menu driven program to show all queue operations performed on a list taken from the user
+q9) WAP to open a file 'practical.txt' and count the number of lines starting with T or t
+q10) WAP to open a file word.txt and count the number of "the's" in the file
+q11) WAP to create five dictionaries(sample : Amit={'Name':'Amit','class':'12A','stream':'non-med','percentage':'97'}) where keys signifies the roll number
+write two functions storedata and loaddata using pickle module using binary file.
+q12) Rahul wants to play tambola and want a fair way to generate to generate a number between 1 to 99. WAP to help Rahul with his game.
+q13) WAP to open a file student.dat and search through the file using the name of the student assuming the content of the file to be 
